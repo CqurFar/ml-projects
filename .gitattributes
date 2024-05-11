@@ -1,0 +1,4 @@
+* text=auto
+*.R linguist-language=R
+*.py linguist-language=Python
+*.bat linguist-language=Batch

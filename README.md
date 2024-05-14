@@ -4,4 +4,4 @@ Titanic:
 EDA + GLM=94% + RF=98.32%.
 
 Anime:  
-IBCF with dummys [ALL] + Hybrid content filtering [1000].
+IB_CF with dummys [ALL_ids] + Hybrid_CF [1000_ids].

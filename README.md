@@ -1,6 +1,4 @@
-<center>
-  My kaggle ml projects.
-</center>
+<h1 style="text-align: center;">My kaggle ml projects</h1>
 
 [Titanic - Machine Learning from Disaster:](https://www.kaggle.com/competitions/titanic)
 1. EDA.

@@ -1,19 +1,21 @@
-My kaggle ml projects.
+<center>
+  My kaggle ml projects.
+</center>
 
-Titanic - Machine Learning from Disaster:  
+[Titanic - Machine Learning from Disaster:](https://www.kaggle.com/competitions/titanic)
 1. EDA.
 2. GLM,  Accuracy = 94%.
 3. RF,  Accuracy = 98.32%.
 
-Anime:  
+[Anime Recommendations Database:](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database)
 1. IB_CF with dummies [ALL_ids]
 2. Hybrid_CF [1000_ids].
 
-House Prices - Advanced Regression Techniques:
+[House Prices - Advanced Regression Techniques:](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 1. LM with Lasso, RMSE = 0.16370.
 2. RF, RMSE = 0.15591.
 3. GB, RMSE = 0.14144.
 
-Store Sales - Time Series Forecasting:
+[Store Sales - Time Series Forecasting:](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)
 1. EDA.
 2. Prophet with reg, RMSLE = 0.43745.

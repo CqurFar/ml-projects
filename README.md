@@ -6,8 +6,9 @@
 3. RF,  Accuracy = 98.32%.
 
 [Anime Recommendations Database:](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database)
-1. IB_CF with dummies [ALL_ids]
-2. Hybrid_CF [1000_ids].
+1. EDA.
+2. IB_CF with dummies [ALL_ids]
+3. Hybrid_CF [1000_ids].
 
 [House Prices - Advanced Regression Techniques:](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 1. LM with Lasso, RMSE = 0.16370.

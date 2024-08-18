@@ -17,4 +17,4 @@
 
 [Store Sales - Time Series Forecasting:](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)
 1. EDA.
-2. Prophet with reg, RMSLE = 0.43745.
+2. Prophet with reg, RMSE = 0.43745.

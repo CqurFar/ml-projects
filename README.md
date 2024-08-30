@@ -18,8 +18,8 @@
 
 ### [Store Sales - Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)
 - **Exploratory Data Analysis (EDA)**
-- **Prophet with Regularization:** RMSE = 0.43745
-- **ARIMA with Regularization:** RMSE = 0.45330
+- **Prophet with Regressors:** RMSE = 0.43745
+- **ARIMA with Regressors:** RMSE = 0.45330
 - **CatBoost with Fourier Series:** RMSE = 0.51673
 
 ### [Wine Quality](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)
